@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "deepmachinery:chromium_block",
+    "deepmachinery:ferrochromium_alloy_block",
+    "deepmachinery:tungsten_block",
+    "deepmachinery:crucible"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "deepmachinery:chromium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "deepmachinery:chromium_ingot"
+  }
+}

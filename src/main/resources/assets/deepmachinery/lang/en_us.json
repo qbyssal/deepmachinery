@@ -1,0 +1,18 @@
+{
+  "item.deepmachinery.raw_tungsten": "Raw Tungsten",
+  "item.deepmachinery.raw_chromium": "Raw Chromium",
+  "item.deepmachinery.rough_ferrochromium_alloy": "Rough Ferrochromium Alloy",
+  "item.deepmachinery.tungsten_ingot": "Tungsten Ingot",
+  "item.deepmachinery.chromium_ingot": "Chromium Ingot",
+  "item.deepmachinery.ferrochromium_alloy_ingot": "Ferrochromium Alloy Ingot",
+  "item.deepmachinery.molten_ferrochromium_bucket": "Bucket of Molten Ferrochromium",
+  "item.deepmachinery.molten_chromium_bucket": "Bucket of Molten Chromium",
+  "item.deepmachinery.molten_iron_bucket": "Bucket of Molten Iron",
+
+  "block.deepmachinery.tungsten_block": "Block of Tungsten",
+  "block.deepmachinery.chromium_block": "Block of Chromium",
+  "block.deepmachinery.ferrochromium_alloy_block": "Block of Ferrochromium Alloy",
+  "block.deepmachinery.crucible": "Crucible",
+
+  "itemgroup.deepmachinery": "Deep Machinery"
+}

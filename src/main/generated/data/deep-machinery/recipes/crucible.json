@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bucket"
+    },
+    "T": {
+      "item": "deepmachinery:tungsten_ingot"
+    }
+  },
+  "pattern": [
+    "T T",
+    "TBT",
+    "TTT"
+  ],
+  "result": {
+    "item": "deepmachinery:crucible"
+  },
+  "show_notification": true
+}

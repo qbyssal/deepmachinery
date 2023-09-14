@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "deepmachinery:block/ferrochromium_alloy_block"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "deepmachinery:block/ferrochromium_alloy_block"
+  }
+}

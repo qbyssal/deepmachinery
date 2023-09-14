@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "deepmachinery:block/crucible"
+    },
+    "facing=east": {
+      "model": "deepmachinery:block/crucible",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "deepmachinery:block/crucible",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "deepmachinery:block/crucible",
+      "y": 270
+    }
+  }
+}

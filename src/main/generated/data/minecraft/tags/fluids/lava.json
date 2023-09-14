@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "deepmachinery:molten_chromium",
+    "deepmachinery:flowing_molten_chromium",
+    "deepmachinery:molten_ferrochromium",
+    "deepmachinery:flowing_molten_ferrochromium",
+    "deepmachinery:molten_iron",
+    "deepmachinery:flowing_molten_iron"
+  ]
+}
